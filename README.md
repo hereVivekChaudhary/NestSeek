@@ -1,1 +1,1 @@
-# NestSeek
+# NestSeek is an apartment rental website that I developed to make finding and booking rental properties simple and attractive. Users can securily log in, view listings,leavereviews, like properties etc. My goal was to create a comprehensive rental platform with an intuitive experience for renters.
